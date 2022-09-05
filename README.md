@@ -5,7 +5,7 @@
 ``` 
 https://www.youtube.com/watch?v=kmQdscgci0w
 ```
-                 or 
+ 
 ``` 
 https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
 ```
@@ -35,4 +35,9 @@ https://www.youtube.com/watch?v=2RoWZXcbPjw
 
 ``` 
 https://www.youtube.com/watch?v=2RoWZXcbPjw
+```
+### Check the official blog for further doubts ###
+
+``` 
+https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
 ```
