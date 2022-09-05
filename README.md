@@ -1,6 +1,13 @@
 # Biostatistics Lab
 ## Setup Python | VS Code | Git ##
-### Install Supported version of python on your system ###
+
+### Install a Python interpreter Windows/Linux ###
+
+``` 
+https://www.youtube.com/watch?v=kmQdscgci0w
+```
+
+### Install a Python interpreter macOS ###
 
 ``` 
 https://www.youtube.com/watch?v=kmQdscgci0w
@@ -12,12 +19,12 @@ Run the following commands to check installed python version
 python3 --version 
 ```
 
-### Follow the link for VS Code setup Windows/Linux ###
+### Visual Studio Code on Windows/Linux ###
 
 ``` 
 https://www.youtube.com/watch?v=Z3i04RoI9Fk
 ```
-### Follow the link for VS Code setup Mac ###
+### Visual Studio Code on macOS ###
 
 ``` 
 https://www.youtube.com/watch?v=2RoWZXcbPjw
