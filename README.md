@@ -1,7 +1,5 @@
 # biostatistics
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+follow the below youtube video to install python
+```     https://www.youtube.com/watch?v=kmQdscgci0w
 ```
