@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=kmQdscgci0w
 ### Install a Python interpreter macOS ###
 
 ``` 
-https://www.youtube.com/watch?v=kmQdscgci0w
+https://www.youtube.com/watch?v=M323OL6K5vs
 ```
  
 Run the following commands to check installed python version
