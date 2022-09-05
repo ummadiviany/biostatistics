@@ -1,11 +1,17 @@
 # Biostatistics Lab
-## Setup Python & VS Code ##
-### Follow the link for Python installation process ###
+## Setup Python | VS Code | Git ##
+### Install Supported version of python on your system ###
 
 ``` 
 https://www.youtube.com/watch?v=kmQdscgci0w
 ```
-Please run the following command in terminal to verify the python installed or not.
+                 or 
+``` 
+https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
+```
+
+
+Run the following commands to check installed python version.
 
 ```ruby
 python --version 
@@ -19,6 +25,11 @@ python3 --version
 
 ``` 
 https://www.youtube.com/watch?v=Z3i04RoI9Fk
+```
+### Follow the link for VS Code setup Mac ###
+
+``` 
+https://www.youtube.com/watch?v=2RoWZXcbPjw
 ```
 ### Follow the link for VS Code setup Mac ###
 
