@@ -1,5 +1,5 @@
 # Biostatistics Lab
-
+## Setup Python & VS Code ##
 ### Follow the link for Python installation process ###
 
 ``` 
