@@ -18,7 +18,7 @@ Run the following commands to check installed python version
 ```ruby
 python3 --version 
 ```
-## Setup VS Code ##
+2.## Setup VS Code ##
 ### Visual Studio Code on Windows/Linux ###
 
 ``` 
