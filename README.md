@@ -9,6 +9,9 @@ Please run the following command in terminal to verify the python installed or n
 
 ```ruby
 python --version 
+```
      or
-python3 --version
+     
+```ruby
+python3 --version 
 ```
