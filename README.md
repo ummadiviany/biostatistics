@@ -6,21 +6,12 @@
 https://www.youtube.com/watch?v=kmQdscgci0w
 ```
  
-``` 
-https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
-```
-
-
-Run the following commands to check installed python version.
-
-```ruby
-python --version 
-```
-     or
-     
+Run the following commands to check installed python version
+  
 ```ruby
 python3 --version 
 ```
+
 ### Follow the link for VS Code setup Windows/Linux ###
 
 ``` 
