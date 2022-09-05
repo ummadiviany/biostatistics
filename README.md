@@ -1,5 +1,5 @@
 # Biostatistics Lab
-## Setup Python | VS Code | Git ##
+## 1.Setup Python ##
 
 ### Install a Python interpreter Windows/Linux ###
 
@@ -18,7 +18,7 @@ Run the following commands to check installed python version
 ```ruby
 python3 --version 
 ```
-2.## Setup VS Code ##
+## 2.Setup VS Code ##
 ### Visual Studio Code on Windows/Linux ###
 
 ``` 
@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=2RoWZXcbPjw
 ``` 
 https://www.youtube.com/watch?v=2RoWZXcbPjw
 ```
-## Setup  Git ##
+## 3.Setup  Git ##
 ### Check the official blog for further doubts ###
 
 ``` 
