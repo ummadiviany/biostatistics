@@ -1,6 +1,6 @@
-# biostatistics
+# Biostatistics Lab
 
-### Follow the link for Python installation process ###
+### Follow the youtube video for Python installation process ###
 
 ``` 
 https://www.youtube.com/watch?v=kmQdscgci0w
@@ -14,4 +14,9 @@ python --version
      
 ```ruby
 python3 --version 
+```
+### Follow the youtube video for VS Code setup ###
+Please note : Skip the python installation part and check only VS Code setup
+``` 
+https://www.youtube.com/watch?v=kmQdscgci0w
 ```
