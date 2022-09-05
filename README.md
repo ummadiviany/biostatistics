@@ -18,5 +18,5 @@ python3 --version
 ### Follow the youtube video for VS Code setup ###
 Please note : Skip the python installation part and check only VS Code setup
 ``` 
-[https://www.youtube.com/watch?v=kmQdscgci0w](https://www.youtube.com/watch?v=cUAK4x_7thA)
+https://www.youtube.com/watch?v=Z3i04RoI9Fk
 ```
