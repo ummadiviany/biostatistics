@@ -29,11 +29,6 @@ https://www.youtube.com/watch?v=Z3i04RoI9Fk
 ``` 
 https://www.youtube.com/watch?v=2RoWZXcbPjw
 ```
-### Follow the link for VS Code setup Mac ###
-
-``` 
-https://www.youtube.com/watch?v=2RoWZXcbPjw
-```
 ## 3.Setup  Git ##
 ### Check the official blog for further doubts ###
 
