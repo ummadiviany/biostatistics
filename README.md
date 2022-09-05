@@ -29,9 +29,8 @@ https://www.youtube.com/watch?v=Z3i04RoI9Fk
 ``` 
 https://www.youtube.com/watch?v=2RoWZXcbPjw
 ```
-      Or you can also refer following tutorials alternate to above
-## 3.Setup  Git ##
-### Getting Started with Python in VS Code ###
+     
+## 3.QuickSetup- tutorials ##
 
 ``` 
 https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
